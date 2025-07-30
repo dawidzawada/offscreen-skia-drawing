@@ -1,6 +1,6 @@
 # Offscreen Skia Drawing 🎨
 
-This is an example project with React Native Skia offscreen drawing
+This is an example project with React Native Skia offscreen drawing. [Check my article to learn more.](https://dawidzawada.dev/blog/offscreen-drawing-with-react-native-skia/)
 
 ## Get started
 
